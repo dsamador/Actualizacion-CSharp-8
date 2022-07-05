@@ -18,3 +18,4 @@ foreach (int i in ultimos) Console.WriteLine($"{i}");
 
 Console.WriteLine($"Intermedios" );//3,4
 foreach (int i in intermedios) Console.WriteLine($"{i}");
+

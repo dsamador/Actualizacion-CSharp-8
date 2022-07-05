@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001 Overflow", "001 Overflo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002 Decimal", "002 Decimal\002 Decimal.csproj", "{9200DEEC-D50F-4DCA-8C22-D73A0EB158BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003 Cadenas", "003 Cadenas\003 Cadenas.csproj", "{834C77FB-04DB-4E63-BC6C-2A34E0859F4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003 Cadenas", "003 Cadenas\003 Cadenas.csproj", "{834C77FB-04DB-4E63-BC6C-2A34E0859F4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004 Indices y Rangos", "004 Indices y Rangos\004 Indices y Rangos.csproj", "{82D64B4D-794D-417C-A8CB-1C086E2C7368}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004 Indices y Rangos", "004 Indices y Rangos\004 Indices y Rangos.csproj", "{82D64B4D-794D-417C-A8CB-1C086E2C7368}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005 Expresiones de Switch", "005 Expresiones de Switch\005 Expresiones de Switch.csproj", "{181B99C6-54D1-42B7-B7FC-2C5CC7085F16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{82D64B4D-794D-417C-A8CB-1C086E2C7368}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82D64B4D-794D-417C-A8CB-1C086E2C7368}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82D64B4D-794D-417C-A8CB-1C086E2C7368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{181B99C6-54D1-42B7-B7FC-2C5CC7085F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{181B99C6-54D1-42B7-B7FC-2C5CC7085F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{181B99C6-54D1-42B7-B7FC-2C5CC7085F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{181B99C6-54D1-42B7-B7FC-2C5CC7085F16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
