@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005 Expresiones de Switch",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006 Operador Null Coalescing", "006 Operador Null Coalescing\006 Operador Null Coalescing.csproj", "{45F5525D-6C31-4432-8510-2C9AADB8264A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007 Uso de this", "007 Uso de this\007 Uso de this.csproj", "{7CFEA37F-0A08-472D-95E6-CBE2B17AD7FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{45F5525D-6C31-4432-8510-2C9AADB8264A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45F5525D-6C31-4432-8510-2C9AADB8264A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45F5525D-6C31-4432-8510-2C9AADB8264A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CFEA37F-0A08-472D-95E6-CBE2B17AD7FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CFEA37F-0A08-472D-95E6-CBE2B17AD7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CFEA37F-0A08-472D-95E6-CBE2B17AD7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CFEA37F-0A08-472D-95E6-CBE2B17AD7FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
