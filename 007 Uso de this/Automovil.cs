@@ -21,7 +21,9 @@ namespace _007_Uso_de_this
 
             //Ahora indicamos que usamos el atributo
             //this es una autorreferencia al objeto que esta ejecutando el codigo
-            this.modelo = "Corsa";            
+            //this.modelo = "Corsa";
+            this.modelo = modelo;
+
         }
         public override string ToString()        
             => string.Format($"Tu auto es {modelo}");//4:12
