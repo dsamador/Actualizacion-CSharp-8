@@ -2,4 +2,10 @@
 //Primer caso
 using _007_Uso_de_this;
 
-Automovil automovil = new Automovil("Ferrari");
+//Primer Caso
+//Automovil automovil = new Automovil("Ferrari");
+//Console.WriteLine(automovil);
+
+//Segundo Caso
+Mascota mascota = new Mascota();
+Console.WriteLine(mascota);
