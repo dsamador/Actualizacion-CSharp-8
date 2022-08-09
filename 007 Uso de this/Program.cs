@@ -11,5 +11,8 @@ using _007_Uso_de_this;
 //Console.WriteLine(mascota);
 
 //Tercer caso
-Mensajes mensajes = new Mensajes();
-mensajes.Saluda();
+//Mensajes mensajes = new Mensajes();
+//mensajes.Saluda();
+
+Amigo amigo = new Amigo("Aldo", "23123123");
+amigo.Mensajear();

@@ -22,5 +22,12 @@ namespace _007_Uso_de_this
         {
             Console.WriteLine("Adios a todos");
         }
+
+        //Para el cuarto caso
+        public void Presentar(Amigo amigo)
+        {
+            Console.WriteLine("Les presento a mi amigo");
+            Console.WriteLine(amigo);
+        }
     }
 }
