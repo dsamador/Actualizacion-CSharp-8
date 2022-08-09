@@ -7,5 +7,9 @@ using _007_Uso_de_this;
 //Console.WriteLine(automovil);
 
 //Segundo Caso
-Mascota mascota = new Mascota();
-Console.WriteLine(mascota);
+//Mascota mascota = new Mascota();
+//Console.WriteLine(mascota);
+
+//Tercer caso
+Mensajes mensajes = new Mensajes();
+mensajes.Saluda();

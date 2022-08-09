@@ -15,7 +15,7 @@
             Console.WriteLine("Constructor de default");
             //Esta version puede sobreescribir un valor
             //que ya hayamos asignado a alguna de las variables
-            nombre = "Roper";
+            //nombre = "Roper"; //comentado da Manchas, descomentado da Roper
         }
 
         public Mascota(string nombre)
