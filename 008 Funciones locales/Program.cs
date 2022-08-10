@@ -28,6 +28,6 @@ static int ejemploStatic(int a, int b)
     int r = a + b;
 
     //NO puede acceder a las variables locales a su clase contenedora
-    Console.WriteLine($"Saludos a {nombre}, {puesto}");
+    //Console.WriteLine($"Saludos a {nombre}, {puesto}");
     return r;
 }
